@@ -1,0 +1,14 @@
+{
+  "name": "esm-sdk",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "repro": "node index.mjs"
+  },
+  "author": "Keith Broughton",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@imtbl/sdk": "^1.43.0"
+  }
+}
